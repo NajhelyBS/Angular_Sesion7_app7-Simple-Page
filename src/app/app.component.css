@@ -3,6 +3,15 @@ nav {
   }
   #brand {
     color:white;
-    font-weight: 800;
+    font-size: 32px;
+    font-weight: 700;
     margin-left: 13px;
   }
+main {
+  background-color: yellow;
+  margin: 38px;
+}
+div {
+    margin: 20px;
+    height: 100px;
+}

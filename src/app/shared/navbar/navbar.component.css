@@ -1,0 +1,8 @@
+nav {
+    background-color: rgb(252, 127, 127);
+    height: 28px;
+}
+li {
+    margin-left: 20px;
+    font-size: 14px
+}
