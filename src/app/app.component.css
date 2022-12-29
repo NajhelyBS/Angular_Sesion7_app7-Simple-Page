@@ -8,10 +8,9 @@ nav {
     margin-left: 13px;
   }
 main {
-  background-color: yellow;
+  background-color: rgba(184, 177, 168, 0.281);
   margin: 38px;
 }
-div {
-    margin: 20px;
-    height: 100px;
+#contenedor {
+  padding: 40px;
 }
